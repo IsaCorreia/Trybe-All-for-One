@@ -1,2 +1,2 @@
-DELETE FROM ventoNorte.order_details
+DELETE FROM northwind.order_details
 WHERE id = id;
